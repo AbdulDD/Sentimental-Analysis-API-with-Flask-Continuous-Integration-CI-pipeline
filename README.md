@@ -4,7 +4,7 @@ This repository contains a **Sentiment Analysis API** built with **Flask** and i
 
 The API leverages a pre-trained sentiment analysis model from Hugging Face to classify text inputs as positive or negative. The focus of this project is on inference only, demonstrating how to automate testing, validation, and deployment readiness using CI practices — a key skill in MLOps workflows.
 
-Key Features
+**Key Features**
 
 Pre-trained Model Integration: Uses Hugging Face models for quick deployment without training.
 
@@ -16,20 +16,6 @@ Automated Testing: Validates the API endpoints and inference outputs with unit t
 
 Environment Reproducibility: Developed inside GitHub Codespaces for consistent cloud-based development.
 
-Tools and Technologies
+**Tools and Technologies**
 
-Programming Language: Python
-
-Web Framework: Flask
-
-ML Model: Hugging Face Transformers (distilbert-base-uncased-finetuned-sst-2-english)
-
-Testing: Pytest for automated inference testing
-
-CI/CD: GitHub Actions for continuous integration
-
-Development Environment: GitHub Codespaces
-
-Dependency Management: requirements.txt
-
-Project Structure
+Python | Flask | ML Model (Hugging Face Transformers) | Testing (Pytest) | Linting | CI using GitHub Actions | GitHub Codespaces | Dependency Management (requirements.txt)
