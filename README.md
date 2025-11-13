@@ -7,15 +7,15 @@
 
 **Key Features**
 
-Pre-trained Model Integration: Uses Hugging Face models for quick deployment without training.
+- **Pre-trained Model Integration:** Uses Hugging Face models for quick deployment without training.
 
-API Development: Provides a lightweight web service with Flask to serve predictions.
+- **API Development:** Provides a lightweight web service with Flask to serve predictions.- 
 
-Continuous Integration Pipeline: GitHub Actions automatically tests your code whenever changes are pushed or pull requests are created.
+- **Continuous Integration Pipeline:** GitHub Actions automatically tests your code whenever changes are pushed or pull requests are created.
 
-Automated Testing: Validates the API endpoints and inference outputs with unit tests.
+- **Automated Testing:** Validates the API endpoints and inference outputs with unit tests.
 
-Environment Reproducibility: Developed inside GitHub Codespaces for consistent cloud-based development.
+- **Environment Reproducibility:** Developed inside GitHub Codespaces for consistent cloud-based development.
 
 **Tools and Technologies**
 
