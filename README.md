@@ -1,8 +1,9 @@
 # Sentiment Analysis API with Flask
 **Overview**
-This repository contains a **Sentiment Analysis API** built with **Flask** and integrated into a **Continuous Integration (CI)** pipeline using **GitHub Actions**.
 
-The API leverages a pre-trained sentiment analysis model from Hugging Face to classify text inputs as positive or negative. The focus of this project is on inference only, demonstrating how to automate testing, validation, and deployment readiness using CI practices — a key skill in MLOps workflows.
+- This repository contains a **Sentiment Analysis API** built with **Flask** and integrated into a **Continuous Integration (CI)** pipeline using **GitHub Actions**.
+
+- The API leverages a pre-trained sentiment analysis model from Hugging Face to classify text inputs as positive or negative. The focus of this project is on inference only, demonstrating how to automate testing, validation, and deployment readiness using CI practices — a key skill in MLOps workflows.
 
 **Key Features**
 
