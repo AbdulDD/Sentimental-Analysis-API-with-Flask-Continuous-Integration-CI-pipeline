@@ -1,4 +1,7 @@
 # Sentiment Analysis API with Flask
+
+[![CI pipeline testing](https://github.com/AbdulDD/Sentimental-Analysis-API-with-Flask-Continuous-Integration-CI-pipeline/actions/workflows/makefile.yml/badge.svg)](https://github.com/AbdulDD/Sentimental-Analysis-API-with-Flask-Continuous-Integration-CI-pipeline/actions/workflows/makefile.yml)
+
 **Overview**
 
 - This repository contains a **Sentiment Analysis API** built with **Flask** and integrated into a **Continuous Integration (CI)** pipeline using **GitHub Actions**.
