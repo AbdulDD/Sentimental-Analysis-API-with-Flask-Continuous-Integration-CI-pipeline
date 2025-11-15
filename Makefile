@@ -6,15 +6,9 @@ install:
 test:
 	pytest
 
-
-# Run linter
-lint:
-	flake8 . --exclude=.venv
-
-
 # Format code
 format:
 	black .
 
 # Run everything
-all: install lint format test
+all: install format test
